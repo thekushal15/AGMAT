@@ -98,19 +98,19 @@ export const Projects = () => {
       title: "Farm Machinery Lab",
       description: "FM Lab",
       imgUrl: s54,
-      link: "https://drive.google.com/drive/folders/1vov-OX7Qki6e6ScO_XFj_LA2HiD-_d0G?usp=sharing",
+      link: "https://drive.google.com/drive/folders/1BY6-zfOsAdj8VxdRaueXYZlk_OCJZmiX?usp=sharing",
     },
     {
       title: "Land & Water Resources Engineering LAB.",
       description: "LWR Lab",
       imgUrl: s55,
-      link: "https://drive.google.com/drive/folders/1BY6-zfOsAdj8VxdRaueXYZlk_OCJZmiX?usp=sharing",
+      link: "https://drive.google.com/drive/folders/1eanVJ9B2LrN4-B5x88yRVvmpTIKHn-Z9?usp=sharing",
     },
     {
       title: "Food Engineering Lab",
       description: "Food Eng. Lab",
       imgUrl: s56,
-      link: "https://drive.google.com/drive/folders/1eanVJ9B2LrN4-B5x88yRVvmpTIKHn-Z9?usp=sharing",
+      link: "https://drive.google.com/drive/folders/1vov-OX7Qki6e6ScO_XFj_LA2HiD-_d0G?usp=sharing",
     },
   ];
   const projects2 = [
